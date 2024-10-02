@@ -1,2 +1,2 @@
-# de
+# Differential Evolution
 DE in Python
